@@ -1,1 +1,1 @@
-git@github.com:no-mg/posmotri-v-okno-fd.git
+https://github.com/no-mg/posmotri-v-okno-fd.git

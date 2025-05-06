@@ -69,7 +69,6 @@ ol {
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding-top: 15px;
   gap: 23px;
 }
 
@@ -316,7 +315,7 @@ ol {
   border: 1px solid #fff;
   color: #fff;
   text-align: center;
-  font-family: "Fira Sans Condensed";
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   font-weight: 700;
   margin-top: auto;
